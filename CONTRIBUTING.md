@@ -1,12 +1,12 @@
 # Contributing to XYZ
 
-In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
+In this guide you will get an overview of the the different ways to contribute and the contribution approval process.
 
 #### Table Of Contents
 
 [Code of Conduct](#code-of-conduct)
 
-[What should I know before I get started?](#getting-started)
+[Getting Started](#getting-started)
 
 [How Can I Contribute?](#how-can-i-contribute)
   * [Reporting Bugs](#reporting-bugs)
@@ -24,8 +24,7 @@ In this guide you will get an overview of the contribution workflow from opening
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [XYZ Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
-
+This project is governed by the [XYZ Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
 
 ## Getting Started
 
@@ -67,9 +66,9 @@ Look through the listed issues for the repository. Issues that are not assigned 
 
 When you have completed your changes please create a pull request.
 
-- Don't forget to [link PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) if you are solving one.
-- Once you submit your PR, a team member will review your proposal. We may ask questions or request for additional information.
-- We may ask for changes to be made before a PR can be merged, either using [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) or pull request comments. You can apply suggested changes directly through the UI. You can make any other changes in your fork, then commit them to your branch.
+- Don't forget to [link PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
+- Once you submit your PR, a team member will review your proposal.
+- We may ask for changes to be made before a PR can be merged. You can apply suggested changes directly through the UI. You can make any other changes in your fork, then commit them to your branch.
 - As you update your PR and apply changes, mark each conversation as resolved.
 
 
@@ -129,26 +128,17 @@ This section lists the labels we use to help us track and manage issues and pull
 | Label name | Description |
 | --- | --- |
 | `enhancement` | Feature requests. |
-| `bug` | Confirmed bugs or reports that are very likely to be bugs. |
-| `blocked` | [search][search-atom-repo-label-blocked] | [search][search-atom-org-label-blocked] | Issues blocked on other issues. |
+| `bug` | Bugs. |
+| `blocked` | Issues blocked on other issues. |
 
 
 #### Topic Categories
 
 | Label name | Description |
 | --- | --- |
-| `windows` | Related to XYZ running on Windows. |
-| `linux` | Related to XYZ running on Linux. |
-| `mac` | Related to XYZ running on macOS. |
 | `documentation` | Related to any type of documentation |
-| `performance` | Related to performance. |
-| `security` | Related to security. |
 | `ui` | Related to visual design. |
 | `api` | Related to XYZ's APIs. |
-| `uncaught-exception` | Issues about uncaught exceptions |
-| `crash` | Reports of XYZ completely crashing. |
-| `git` | Related to Git functionality (e.g. problems with gitignore files or with showing the correct file status). |
-
 
 #### Pull Request Labels
 
