@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Reichert"
+  given-names: "Heidi"
+  orcid: "https://orcid.org/0000-0002-1814-3611"
+- family-names: "Mehra"
+  given-names: "Nikhil"
+  orcid: "https://orcid.org/0000-0002-2243-1456"
+- family-names: "Samuelsson"
+  given-names: "Bella"
+  orcid: "https://orcid.org/0000-0003-0129-9529"
+- family-names: "Katlana"
+  given-names: "Parth"
+  orcid: "https://orcid.org/0000-0003-0129-9529"
+- family-names: "Naziri"
+  given-names: "Abid"
+  orcid: "https://orcid.org/0000-0002-3499-5283"
+title: "TestRepo37"
+version: 0.1.0
+doi: 10.5281/zenodo.7032541
+date-released: 2022-08-29
+url: "https://github.com/parthk279/TestRepo37"
