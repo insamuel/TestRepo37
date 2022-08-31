@@ -7,6 +7,6 @@ This currently does not work, but I wanted to add what it would look like for bu
 -->
 ![build:passing](https://img.shields.io/appveyor/build/insamuel/TestRepo37)
 <!---
-A badge showing the build status from github actions
+A badge showing the build status from github actions linked to the github actions page
 -->
-![Build](https://github.com/insamuel/TestRepo37/actions/workflows/python-app.yml/badge.svg)
+[![Build](https://github.com/insamuel/TestRepo37/actions/workflows/python-app.yml/badge.svg)](https://github.com/insamuel/TestRepo37/actions)
