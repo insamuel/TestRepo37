@@ -2,26 +2,6 @@
 
 In this guide you will get an overview of the the different ways to contribute and the contribution approval process.
 
-#### Table Of Contents
-
-[Code of Conduct](#code-of-conduct)
-
-[Getting Started](#getting-started)
-
-[How Can I Contribute?](#how-can-i-contribute)
-  * [Reporting Bugs](#reporting-bugs)
-  * [Suggesting Enhancements](#suggesting-enhancements)
-  * [Code Contribution](#code-contribution)
-  * [Pull Requests](#pull-requests)
-
-[Styleguides](#styleguides)
-  * [Git Commit Messages](#git-commit-messages)
-  * [TODO LANG Styleguide](#javascript-styleguide)
-  * [Documentation Styleguide](#documentation-styleguide)
-
-[Additional Notes](#additional-notes)
-  * [Issue and Pull Request Labels](#issue-and-pull-request-labels)
-
 ## Code of Conduct
 
 This project is governed by the [XYZ Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
@@ -68,7 +48,7 @@ When you have completed your changes please create a pull request.
 
 - Don't forget to [link PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
 - Once you submit your PR, a team member will review your proposal.
-- We may ask for changes to be made before a PR can be merged. You can apply suggested changes directly through the UI. You can make any other changes in your fork, then commit them to your branch.
+- We may ask for changes to be made before a PR can be merged. You can apply suggested changes in your fork, then commit them to your branch.
 - As you update your PR and apply changes, mark each conversation as resolved.
 
 
@@ -81,9 +61,6 @@ When you have completed your changes please create a pull request.
 
 ### LANG Styleguide
 
-All TODO LANG code is linted with [Prettier](https://prettier.io/).
-
-* TODO
 * Inline `export`s with expressions whenever possible
   ```TODO
   // Use this:
@@ -99,8 +76,6 @@ All TODO LANG code is linted with [Prettier](https://prettier.io/).
   ```
 
 ### Documentation Styleguide
-
-* TODO
 
 #### Example
 
